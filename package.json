@@ -1,0 +1,12 @@
+{
+  "name": "section3-assignment",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "start-server": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
